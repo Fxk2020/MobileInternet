@@ -1,0 +1,12 @@
+<!--home.wxml-->
+<!--Mustache语法：引用变量 数据绑定-->
+<view>Hello {{name}}!</view>
+<view>您的年龄是{{age}}</view>
+
+<!--列表展示数据：wx:for-->
+<view wx:for="{{students}}">{{item.name}}:{{item.id}}</view>
+
+<!--事件监听-->
+<view>当前计数：{{counter}}</view>
+<button size="mini" bindtap="handleBtnClick">+</button>
+<button size="mini" bindtap="handleBtnClick2">-</button>

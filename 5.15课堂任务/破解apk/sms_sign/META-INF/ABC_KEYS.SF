@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ZbZ7g8yuVKyqGXzF97d4Bb0Fgp9rk
+ A3GqZECGP/obeU=
+SHA-256-Digest-Manifest: yoj4pg/zbV/bNl0yWYD8uWXf2GwvZnJQ3Ts5qlM055Q=
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: lmWWBYESc7Hgvpc0RhuxzT0VpTptYJcs14A3jaPSAGo=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: 4awDPCyBrZbSUuosaw/TvfOGQ+XAlI5P+x4H/J6mrZY=
+
+Name: res/layout/about.xml
+SHA-256-Digest: CwTLk3vj2xNcBRMdakg2xH3VMNmd9ewr++S9wfin3k4=
+
+Name: res/layout/list_row.xml
+SHA-256-Digest: xSK3dLsJ+inUebD+j+3KejKFna6kiC1OnbXQvX4GgWY=
+
+Name: res/layout/main.xml
+SHA-256-Digest: prnHnJgZe/ygoE19rIxQpUdW8OpmnrGsQHUjb7d3oyw=
+
+Name: res/drawable/icon2.png
+SHA-256-Digest: j346BnfYmvgMrcIWOPcrlTvlmJIw3uk4qCndQR6avZk=
+
+Name: resources.arsc
+SHA-256-Digest: wPXHUzmnexvk5XQygwYPJjyEbeDpQ/HR207BEeiA7ZM=
+
+Name: classes.dex
+SHA-256-Digest: EiMk3REgmilHr4/oV2REkePWysEbUErrdxuibrbn1+U=
+
+Name: res/layout/arpcheck.xml
+SHA-256-Digest: saXyykLLaC+UZA1XRnBVKvpHfqvYhhq5SMPk4U/XVwo=
+
+Name: res/layout/sendmsg.xml
+SHA-256-Digest: iK5g5edUyUx4u/1rHVCxKxoNuxVoG6IdZ9RgkasvCdQ=
+

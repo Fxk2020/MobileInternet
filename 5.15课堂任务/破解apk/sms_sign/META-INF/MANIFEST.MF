@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: ZeVEPOg5k4nawH8HaArrK2xMhB8M0eyKFN+qX7DGK58=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: WIWoqN4tXlfA1plK7nwYi/oST9l5P3ReYjFh9xdsJEc=
+
+Name: res/layout/about.xml
+SHA-256-Digest: qxvIu9tvnRZCyUDrkkmphTY9FD5bRolE1GELEm7HIbw=
+
+Name: res/layout/list_row.xml
+SHA-256-Digest: J/m0zfuWsqC4j+deTU9098/B8M+t0m6CBokhY9/ke3s=
+
+Name: res/layout/main.xml
+SHA-256-Digest: 8kXrCxQ9bMF4sJ1RTHEfVcRh/jWiijbCHN64YGwZHJ8=
+
+Name: res/drawable/icon2.png
+SHA-256-Digest: E4K/XUvjRW+0I7+4JA72M+3vlEuVKk+bsxfGrZiL8Qc=
+
+Name: resources.arsc
+SHA-256-Digest: uN8tmLWPq1e9XETgqQjxz8f52kl7UebGMWYYlw6i9Xs=
+
+Name: classes.dex
+SHA-256-Digest: 696oCsHIgHE/TgUeff6fRBL55rhC3wfE0OVWBlF0yZ0=
+
+Name: res/layout/arpcheck.xml
+SHA-256-Digest: J/m0zfuWsqC4j+deTU9098/B8M+t0m6CBokhY9/ke3s=
+
+Name: res/layout/sendmsg.xml
+SHA-256-Digest: YghLjWvIWn8XqKGGQVh2vxNz8427FPrYd+ILp+oVBdU=
+

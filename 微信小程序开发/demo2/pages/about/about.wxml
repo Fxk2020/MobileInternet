@@ -1,0 +1,14 @@
+<!--pages/about/about.wxml-->
+<text>about页面</text>
+
+<view>
+<view>a</view>
+<view>b</view>
+<view>c</view>
+<view>d</view>
+<view>e</view>
+<view>{{message}}</view>
+</view>
+
+<open-data type="userNickName"></open-data>
+<open-data type="userAvatarUrl"></open-data>
